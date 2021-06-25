@@ -2,6 +2,8 @@
 Customize element form - frond end
 
 ## Input number Horizontal style
+Preview
+[here.](https://codepen.io/hillzacky/pen/vYxMgwL)
 
 Via CDN
 ```
