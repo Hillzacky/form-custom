@@ -19,11 +19,11 @@ Add Element
 Init input number on script
 ```
 inputNumber({
-             element: 'input-qty',
-             inputNumber: {
-                name:'quantity'
-              }
-            });
+    element: 'input-qty',
+    inputNumber: {
+      name:'quantity'
+    }
+   });
 ```
 Default Options
 ```
