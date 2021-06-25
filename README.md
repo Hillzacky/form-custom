@@ -6,18 +6,18 @@ Preview
 [here.](https://codepen.io/hillzacky/pen/vYxMgwL)
 
 Via CDN
-```
+```html
 <!--css-->
 <style rel="stylesheet" src="https://cdn.jsdelivr.net/gh/Hillzacky/form-custom@1.0.0/input-number/dist/css/input-number.css"></style>
 <!--js-->
 <script src="https://cdn.jsdelivr.net/gh/Hillzacky/form-custom@1.0.0/input-number/dist/js/input-number.min.js"></script>
 ```
 Add Element
-```
+```html
 <div id="input-qty"></div>
 ```
 Init input number on script
-```
+```javascript
 inputNumber({
     element: 'input-qty',
     inputNumber: {
@@ -26,7 +26,7 @@ inputNumber({
    });
 ```
 Default Options
-```
+```javascript
 inputNumber({
     element: 'input-qty', /* Target element ID */
     inputNumber: {
